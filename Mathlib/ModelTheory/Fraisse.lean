@@ -5,8 +5,9 @@ Authors: Aaron Anderson, Gabin Kolly
 -/
 module
 
-public import Mathlib.ModelTheory.FinitelyGenerated
-public import Mathlib.ModelTheory.PartialEquiv
+public import Mathlib.ModelTheory.Substructures.FinitelyGenerated
+public import Mathlib.ModelTheory.Maps.PartialEquiv
+public import Mathlib.ModelTheory.Language.Empty
 public import Mathlib.ModelTheory.Bundled
 public import Mathlib.Algebra.Order.Archimedean.Basic
 

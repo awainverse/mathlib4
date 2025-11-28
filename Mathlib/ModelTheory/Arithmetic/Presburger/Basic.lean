@@ -6,7 +6,7 @@ Authors: Dexin Zhang
 module
 
 public import Mathlib.Algebra.Group.Basic
-public import Mathlib.ModelTheory.Semantics
+public import Mathlib.ModelTheory.Formula.Semantics
 
 /-!
 # Presburger arithmetic

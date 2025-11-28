@@ -5,7 +5,7 @@ Authors: Aaron Anderson
 -/
 module
 
-public import Mathlib.ModelTheory.ElementarySubstructures
+public import Mathlib.ModelTheory.Substructures.Elementary
 public import Mathlib.CategoryTheory.ConcreteCategory.Bundled
 
 /-!

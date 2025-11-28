@@ -6,7 +6,7 @@ Authors: Aaron Anderson
 module
 
 public import Mathlib.Data.SetLike.Basic
-public import Mathlib.ModelTheory.Semantics
+public import Mathlib.ModelTheory.Formula.Semantics
 
 /-!
 # Definable Sets

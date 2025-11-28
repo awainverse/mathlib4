@@ -5,7 +5,7 @@ Authors: Aaron Anderson
 -/
 module
 
-public import Mathlib.ModelTheory.Satisfiability
+public import Mathlib.ModelTheory.Theory.Satisfiability
 
 /-!
 # Type Spaces

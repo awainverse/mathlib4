@@ -6,7 +6,7 @@ Authors: Aaron Anderson
 module
 
 public import Mathlib.Data.Fintype.Quotient
-public import Mathlib.ModelTheory.Semantics
+public import Mathlib.ModelTheory.Term
 
 /-!
 # Quotients of First-Order Structures

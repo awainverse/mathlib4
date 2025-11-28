@@ -7,7 +7,7 @@ module
 
 public import Mathlib.Computability.Encoding
 public import Mathlib.Logic.Small.List
-public import Mathlib.ModelTheory.Syntax
+public import Mathlib.ModelTheory.Formula.Syntax
 public import Mathlib.SetTheory.Cardinal.Arithmetic
 
 /-!

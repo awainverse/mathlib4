@@ -5,7 +5,7 @@ Authors: Aaron Anderson
 -/
 module
 
-public import Mathlib.ModelTheory.ElementarySubstructures
+public import Mathlib.ModelTheory.Substructures.Elementary
 
 /-!
 # Skolem Functions and Downward Löwenheim–Skolem
